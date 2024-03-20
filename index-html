@@ -7,7 +7,7 @@
         <link rel="stylesheet" href="static/css/style.css" />
     </head>
     <body>
-<h1>    BENVENUTI SU QUESTA PAGINA! </h1>
+<h1>   BENVENUTI SU QUESTA PAGINA! </h1>
 
 <script type ="text/javascript" src = "static/js/myscript.js"></script>
     </body>
