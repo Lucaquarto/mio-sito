@@ -4,8 +4,33 @@
 
 }
 
-
-h1{
-    font-size: 50px;
-    font-family: Arial, sans-serif;
+body {
+    background-color: #fafad2;  /* colore di sfondo */
 }
+
+
+h1 {
+    font-size: 48px;
+    font-family: Roboto;
+    text-align: center;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+
+.image-container {
+            text-align: center;
+            max-width: 100%;
+            
+        }
+
+.text-container {
+            padding-left: 250px;
+            padding-right: 250px;
+        }
+
+p {
+            font-size: 18px;
+            line-height: 1.6;
+            font-family: Overpass Mono;
+        }
+
