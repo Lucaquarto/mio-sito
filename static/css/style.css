@@ -43,3 +43,12 @@ body {
             .section:last-child {
                 border-bottom: 1px solid #ccc;
             }
+
+.footer {
+    background-color: #DCC6E0; /* Sostituisci con il colore esatto del footer */
+    padding: 70px; /* Aumentato per rendere il footer più grande */
+    text-align: left;
+    color: #000; /* Sostituisci con il colore esatto del testo se necessario */
+    font-family: sans-serif; /* Sostituisci con il font desiderato */
+    font-size: 18px; /* Aumenta la dimensione del font se necessario */
+  }
